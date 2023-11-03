@@ -2,223 +2,223 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/"
+                href="https://santiagosilvestrini.github.io/git-lab-05-pages/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://santiagosilvestrini.github.io/git-lab-05-pages/"
                 />
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/categories/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/categories/"
+                href="https://santiagosilvestrini.github.io/git-lab-05-pages/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://santiagosilvestrini.github.io/git-lab-05-pages/categories/"
                 />
   </url><url>
-    <loc>https://example.com/post/2023-11-03-otro-post-de-prueba/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/post/2023-11-03-otro-post-de-prueba/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/post/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/post/"
+                href="https://santiagosilvestrini.github.io/git-lab-05-pages/ar/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/"
+                href="https://santiagosilvestrini.github.io/git-lab-05-pages/post/"
                 />
   </url><url>
-    <loc>https://example.com/post/2023-11-03-probando-github-pages/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/post/2023-11-03-probando-github-pages/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/r/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/categories/r/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/tags/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/tags/"
+                href="https://santiagosilvestrini.github.io/git-lab-05-pages/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://santiagosilvestrini.github.io/git-lab-05-pages/tags/"
                 />
   </url><url>
-    <loc>https://example.com/tags/test/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/tags/test/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/awards/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/awards/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/certifications/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/certifications/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/demo/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/tags/demo/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/shortcode/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/tags/shortcode/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/notice-shortcode/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/post/notice-shortcode/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/series/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/series/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/series/"
+                href="https://santiagosilvestrini.github.io/git-lab-05-pages/ar/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/"
+                href="https://santiagosilvestrini.github.io/git-lab-05-pages/series/"
                 />
   </url><url>
-    <loc>https://example.com/post/series-part-2/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/post/series-part-2/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/series/series-setup/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/series/series-setup/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/series-part-1/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/post/series-part-1/</loc>
     <lastmod>2021-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/redirect/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/tags/redirect/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/redirect/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/post/redirect/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/redirecturl/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/tags/redirecturl/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/figure-shortcode/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/post/figure-shortcode/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/archives/"
+                href="https://santiagosilvestrini.github.io/git-lab-05-pages/ar/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/archives/"
+                href="https://santiagosilvestrini.github.io/git-lab-05-pages/archives/"
                 />
   </url><url>
-    <loc>https://example.com/tags/css/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/html/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/markdown/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/markdown-syntax/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/syntax/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/themes/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/series/themes-guide/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/privacy/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/rich-content/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/shortcodes/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/placeholder-text/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/text/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/contact/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/contact/"
+                href="https://santiagosilvestrini.github.io/git-lab-05-pages/ar/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/contact/"
+                href="https://santiagosilvestrini.github.io/git-lab-05-pages/contact/"
                 />
   </url><url>
-    <loc>https://example.com/post/math-typesetting/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/emoji/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/emoji-support/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/image-test/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/post/image-test/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/thumbnail/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/tags/thumbnail/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/about/"
+                href="https://santiagosilvestrini.github.io/git-lab-05-pages/ar/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/about/"
+                href="https://santiagosilvestrini.github.io/git-lab-05-pages/about/"
                 />
   </url><url>
-    <loc>https://example.com/imprint/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/imprint/</loc>
   </url><url>
-    <loc>https://example.com/tags/index/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/tags/index/"
+                href="https://santiagosilvestrini.github.io/git-lab-05-pages/ar/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/index/"
+                href="https://santiagosilvestrini.github.io/git-lab-05-pages/tags/index/"
                 />
   </url><url>
-    <loc>https://example.com/portfolio/</loc>
+    <loc>https://santiagosilvestrini.github.io/git-lab-05-pages/portfolio/</loc>
   </url>
 </urlset>

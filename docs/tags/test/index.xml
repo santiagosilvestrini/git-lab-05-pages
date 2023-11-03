@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test on My blog</title>
-    <link>https://example.com/tags/test/</link>
+    <link>https://santiagosilvestrini.github.io/git-lab-05-pages/tags/test/</link>
     <description>Recent content in Test on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://santiagosilvestrini.github.io/git-lab-05-pages/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Otro post de prueba</title>
-      <link>https://example.com/post/2023-11-03-otro-post-de-prueba/</link>
+      <link>https://santiagosilvestrini.github.io/git-lab-05-pages/post/2023-11-03-otro-post-de-prueba/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/2023-11-03-otro-post-de-prueba/</guid>
+      <guid>https://santiagosilvestrini.github.io/git-lab-05-pages/post/2023-11-03-otro-post-de-prueba/</guid>
       
         <description>Este es Otro Post Escribir contenido aquí&amp;hellip;</description>
       

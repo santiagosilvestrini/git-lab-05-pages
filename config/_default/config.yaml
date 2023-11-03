@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://santiagosilvestrini.github.io/git-lab-05-pages/
 publishDir: docs
 languageCode: en
 DefaultContentLanguage: en
