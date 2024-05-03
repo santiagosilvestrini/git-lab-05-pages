@@ -2,7 +2,7 @@ baseURL: https://santiagosilvestrini.github.io/git-lab-05-pages/
 publishDir: docs
 languageCode: en
 DefaultContentLanguage: en
-title: Website of Jane Doe
+title: Mi Pagina de Github
 theme: anatole
 summarylength: 10
 enableEmoji: yes

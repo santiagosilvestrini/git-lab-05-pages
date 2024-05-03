@@ -1,9 +1,9 @@
 
-title = "Hi, welcome to my page!"
-author = "John Doe"
+title = "Hola! Soy Santi"
+author = "Santiago Silvestrini"
 #copyright = "2020-2021"
-description = "My Personal Page"
-profilePicture = "images/profile.jpg"
+description = "Mi Página en Github"
+profilePicture = "images/santi.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
@@ -59,12 +59,12 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/ssilvestrini/"
 
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/santiagosilvestrini"
 
 [[socialIcons]]
 icon = "fab fa-instagram"
