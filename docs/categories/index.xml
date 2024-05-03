@@ -6,7 +6,18 @@
     <description>Recent content in Categories on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://santiagosilvestrini.github.io/git-lab-05-pages/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://santiagosilvestrini.github.io/git-lab-05-pages/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://santiagosilvestrini.github.io/git-lab-05-pages/categories/test/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://santiagosilvestrini.github.io/git-lab-05-pages/categories/test/</guid>
+      
+        <description></description>
+      
+    </item>
+    
     <item>
       <title>syntax</title>
       <link>https://santiagosilvestrini.github.io/git-lab-05-pages/categories/syntax/</link>

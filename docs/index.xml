@@ -6,7 +6,18 @@
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Mar 2022 21:47:41 +0000</lastBuildDate><atom:link href="https://santiagosilvestrini.github.io/git-lab-05-pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://santiagosilvestrini.github.io/git-lab-05-pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Probando Github Pages</title>
+      <link>https://santiagosilvestrini.github.io/git-lab-05-pages/post/2024-05-03-probando-githun-pages/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://santiagosilvestrini.github.io/git-lab-05-pages/post/2024-05-03-probando-githun-pages/</guid>
+      
+        <description>Mi Primer Post en Github Pages Usando HUGO para generar un sitio estático.</description>
+      
+    </item>
+    
     <item>
       <title>Awards</title>
       <link>https://santiagosilvestrini.github.io/git-lab-05-pages/awards/</link>
