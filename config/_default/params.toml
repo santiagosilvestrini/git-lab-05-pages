@@ -1,9 +1,9 @@
 
-title = "Hola, soy Santi!"
-author = "Santiago Silvestrini"
+title = "Hi, welcome to my page!"
+author = "John Doe"
 #copyright = "2020-2021"
-description = "Mi Página Personal"
-profilePicture = "images/santi.jpg"
+description = "My Personal Page"
+profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
